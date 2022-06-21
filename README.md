@@ -28,12 +28,12 @@ Here are some ideas to get you started:
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=idrissi-hamza&style=flat-square&color=blue" alt=""/>
- <div width="10px">
+
   <h3 >
   hey there 👋
  
 </h3>
-  <div/>
+ 
   
 </div>
 
