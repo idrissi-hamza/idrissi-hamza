@@ -49,3 +49,7 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :mailbox:How to reach me: [![Linkdin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-a-idrissi-4358898b/)
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
