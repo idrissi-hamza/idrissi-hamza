@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 </div>
   <img src="https://komarev.com/ghpvc/?username=idrissi-hamza&style=flat-square&color=blue" alt=""/>
  <div width="10px">
-  <h1 >
+  <h3 >
   hey there 👋
  
-</h1>
+</h3>
   <div/>
   
 </div>
