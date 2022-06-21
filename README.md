@@ -28,12 +28,10 @@ Here are some ideas to get you started:
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=idrissi-hamza&style=flat-square&color=blue" alt=""/>
-
-  <h3 >
-  hey there 👋
+   <h3 > hey there 👋</h3>
  
-</h3>
- 
-  
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 </div>
 
