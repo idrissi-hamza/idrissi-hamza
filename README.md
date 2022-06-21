@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=idrissi-hamza&style=flat-square&color=blue" alt=""/>
  <div width="10px">
   <h1 >
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+  hey there 👋
+ 
 </h1>
   <div/>
   
