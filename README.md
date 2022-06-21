@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
+ About Me :
 
