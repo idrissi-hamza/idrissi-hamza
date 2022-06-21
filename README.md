@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h1> About Me : <h1/>
+<!-- <h1> About Me : <h1/> -->
  
  <p> I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.<p/>
 
