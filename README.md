@@ -68,3 +68,4 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=idrissi-hamza&theme=dark&background=000000)](https://git.io/streak-stats)
