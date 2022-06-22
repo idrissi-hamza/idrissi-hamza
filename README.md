@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=idrissi-hamza&style=flat-square&color=blue" alt=""/>
-   <h3 > hey there 👋</h3>
+<!--    <h3 > hey there 👋</h3> -->
  
  
 </div>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div> -->
 
 ---
-#### : About Me:
+####  About Me:
 
  
 I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
@@ -47,7 +47,7 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkdin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-a-idrissi-4358898b/)
+- :mailbox:How to reach me: 📫 (https://www.linkedin.com/in/hamza-a-idrissi-4358898b/)
 
 ---
 
