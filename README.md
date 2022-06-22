@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div> -->
 
 ---
-### 👨‍💻: About Me:
+#### : About Me:
 
  
 I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
