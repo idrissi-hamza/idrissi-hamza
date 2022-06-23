@@ -45,7 +45,7 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I go to the Gym or I read tech articles.
+- :zap: In my free time, I go to the gym or I read tech articles.
 
 - :mailbox:How to reach me: 📫 (https://www.linkedin.com/in/hamza-a-idrissi-4358898b/)
 
