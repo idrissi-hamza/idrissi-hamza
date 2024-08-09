@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 </div>
 <!--  <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
+  //- :mailbox:How to reach me: 📫 (https://www.idrissihamza.com/)
+
 </div> -->
 
 ---
@@ -47,7 +49,6 @@ I am a frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I go to the gym or I read tech articles.
 
-- :mailbox:How to reach me: 📫 (https://www.idrissihamza.com/)
 
 ---
 
